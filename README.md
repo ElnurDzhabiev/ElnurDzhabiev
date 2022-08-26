@@ -1,5 +1,5 @@
 ## About me
-- 👋 Hi, I’m @ElnurDzhabiev
+- 👋 Hi, I’m Elnur Dzhabiev
 - 👀 I’m interested in Java
 ## My contacts:
 - :email: dzhabievelnur@gmail.com    
