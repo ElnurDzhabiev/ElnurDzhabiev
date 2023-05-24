@@ -2,7 +2,8 @@
 - 👋 Hi, I’m Elnur Dzhabiev
 - 👀 I’m interested in Java
 ## My contacts:
-- :email: dzhabievelnur@gmail.com    
+- :email: dzhabievelnur@gmail.com
+- :email:  dzhabievelnur@mail.ru   
 
 <!---
 ElnurDzhabiev/ElnurDzhabiev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
