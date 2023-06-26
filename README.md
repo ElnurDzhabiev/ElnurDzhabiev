@@ -4,7 +4,11 @@
 ## My contacts:
 <<<<<<< HEAD
 - :email: dzhabievelnur@gmail.com
+<<<<<<< HEAD
 =======
 - :email: dzhabievelnur@gmail.com
 - :email:  dzhabievelnur@mail.ru
+>>>>>>> test
+=======
+- :email:  dzhabievelnur@mail.ru2
 >>>>>>> test
