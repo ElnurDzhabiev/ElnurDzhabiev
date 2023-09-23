@@ -3,4 +3,5 @@
 - 👀 I’m interested in SQL, PL/SQL, Java and Kotlin.
 ## My contacts:
 - :email: dzhabievelnur@gmail.com
-- :email:  dzhabievelnur@mail.ru
+- :email: dzhabievelnur@mail.ru
+- :email: dzhabievelnur@yandex.ru
